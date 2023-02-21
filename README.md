@@ -10,3 +10,4 @@ Players can press "A, W, D, S" or "right, up, left, down" to control the movemen
 Once the snake gets its food, it will grow longer. But when the snake reaches the wall, or hits its own body, the game is over.
 
 
+![image](https://github.com/JasonZhang0305/githubimg/blob/main/img/Movingsnake.png) 
